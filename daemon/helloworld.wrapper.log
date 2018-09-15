@@ -1,0 +1,4 @@
+2018-09-08 10:49:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\ARYA ARAVIND\Desktop\nodesection\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\ARYA ARAVIND\Desktop\nodesection\Filesystem.js" --log "Hello world wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-09-08 10:49:50 - Started 11880
+2018-09-13 19:19:46 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\ARYA ARAVIND\Desktop\nodesection\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\ARYA ARAVIND\Desktop\nodesection\Filesystem.js" --log "Hello world wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-09-13 19:19:46 - Started 4512
